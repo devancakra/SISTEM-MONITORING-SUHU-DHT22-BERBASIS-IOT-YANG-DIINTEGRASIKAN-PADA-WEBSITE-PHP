@@ -8,7 +8,6 @@
 Kami menciptakan sebuah sistem yang mana dapat memantau perubahan suhu dan kelembapan secara berkala dengan menerapkan IoT yang dapat diintegrasikan pada website PHP sebagai upaya penyelesaian masalah.
 
 <br>
-<br>
 
 ## Anggota Kelompok
 1. Devan Cakra Mudra Wijaya (18081010013).
