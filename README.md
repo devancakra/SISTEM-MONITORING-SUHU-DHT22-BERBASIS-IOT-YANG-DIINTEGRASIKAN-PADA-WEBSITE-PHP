@@ -5,7 +5,7 @@
 ![Arduino](https://img.shields.io/badge/arduino-blue.svg?&style=flat&logo=arduino&logoColor=%23F7DF1E)
 
 # SISTEM-MONITORING-SUHU-DHT22-BERBASIS-IOT-YANG-DIINTEGRASIKAN-PADA-WEBSITE-PHP
-Kami menciptakan sebuah sistem yang mana dapat memantau perubahan suhu dan kelembapan secara berkala dengan menerapkan IoT yang dapat diintegrasikan pada website PHP sebagai upaya penyelesaian masalah.
+Kami menciptakan sebuah sistem yang mana dapat memantau perubahan suhu dan kelembapan secara berkala dengan menerapkan IoT yang dapat diintegrasikan pada website PHP sebagai upaya penyelesaian masalah. Sistem ini dapat digunakan jika alat ini (NodeMCU + DHT22 sensor) telah terhubung dengan penyedia dan internet.
 
 <br>
 
